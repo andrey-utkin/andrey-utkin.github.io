@@ -1,0 +1,17 @@
+# Site settings
+title: Andrey Utkin
+# email:
+description: "Home page"
+baseurl: ""
+url: "https://andrey-utkin.github.io"
+github_username:  andrey-utkin
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+excerpt_separator: "<!-- more -->"
+
+paginate: 5
+
+gems:
+  - jekyll-sitemap
