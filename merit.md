@@ -12,6 +12,7 @@ My contributions to Free and Open Source Software:
 * [Linux Kernel](https://git.kernel.org/cgit/linux/kernel/git/next/linux-next.git/log/?qt=author&q=Andrey+Utkin)
 * [VLC](https://git.videolan.org/?p=vlc.git&a=search&h=HEAD&st=author&s=Andrey+Utkin)
 * [GStreamer](http://cgit.freedesktop.org/gstreamer/common/log/?qt=author&q=Andrey+Utkin), [gst-plugins-bad](http://cgit.freedesktop.org/gstreamer/gst-plugins-bad/log/?qt=author&q=Andrey+Utkin)
+* [Kamailio](https://github.com/kamailio/kamailio/commits/master?author=andrey-utkin) ([with old profile](https://github.com/kamailio/kamailio/commits/master?author=krieger-od))
 
 My projects:
 
