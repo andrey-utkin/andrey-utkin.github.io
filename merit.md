@@ -14,6 +14,7 @@ My contributions to Free and Open Source Software:
 * [GStreamer](http://cgit.freedesktop.org/gstreamer/common/log/?qt=author&q=Andrey+Utkin), [gst-plugins-bad](http://cgit.freedesktop.org/gstreamer/gst-plugins-bad/log/?qt=author&q=Andrey+Utkin)
 * [Kamailio](https://github.com/kamailio/kamailio/commits/master?author=andrey-utkin) ([with old profile](https://github.com/kamailio/kamailio/commits/master?author=krieger-od))
 * [MCABBER](https://mcabber.com/hg/log?rev=Andrey+Utkin)
+* [Gajim](http://hg.gajim.org/gajim/log?rev=Andrey+Utkin)
 
 My projects:
 
