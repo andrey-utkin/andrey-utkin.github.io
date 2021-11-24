@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andriy Utkin</title>
+    <link>/</link>
+    <description>Recent content on Andriy Utkin</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About me    I am a professional software developer.
+Since the start of my career, I chose to work with systems based on Free and Open Source Software. I have never regretted this choice. The freedoms to use, learn, change and share the code are so important in meeting the ever changing human needs, of myself and other people - friends, customers and employers. I am deeply thankful to the people, individuals and organizations, which maintain all these systems.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/merit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/merit/</guid>
+      <description>Merit     Talk is cheap. Show me the code.
+ Linus Torvalds
+I have contributed to many public FOSS projects and made some myself. I am Gentoo Linux developer since 2017. I operate an XMPP server since 2015.
+Contributions to FOSS      Gentoo Linux:
+ Developer since October 2017. Brought in and mentored another developer. Contributor since 2015.    Linux kernel:</description>
+    </item>
+    
+  </channel>
+</rss>
