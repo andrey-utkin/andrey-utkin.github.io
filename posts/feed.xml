@@ -5,14 +5,27 @@
     <link>/posts/</link>
     <description>Recent content in Posts on Andriy Utkin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 18 Nov 2021 23:14:33 +0000</lastBuildDate><atom:link href="/posts/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Mar 2022 13:17:39 +0000</lastBuildDate><atom:link href="/posts/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Boo</title>
-      <link>/boo/</link>
-      <pubDate>Thu, 18 Nov 2021 23:14:33 +0000</pubDate>
+      <title>How to block Russia with OpenWRT</title>
+      <link>/2022/block-ru-openwrt/</link>
+      <pubDate>Sun, 06 Mar 2022 13:17:39 +0000</pubDate>
       
-      <guid>/boo/</guid>
-      <description>Hello</description>
+      <guid>/2022/block-ru-openwrt/</guid>
+      <description>There are many potentially valid reasons you may want to be discriminate to countries on your personal computer or your network infrastructure.
+ Distinct country-specific locality of your users or the resources you use. Distinct intensity of cyber attacks or threats. Legal restrictions (data protection laws, trade sanctions).  Particularly relevant, novel motivation as of March 2022 is the boycott of Russia in response to the invasion of Ukraine.
+This is a purely technical article about how this can be achieved and what to expect as a result.</description>
+    </item>
+    
+    <item>
+      <title>Russian Invasion of Ukraine</title>
+      <link>/2022/russian-invasion-of-ukraine/</link>
+      <pubDate>Sat, 05 Mar 2022 16:04:49 +0000</pubDate>
+      
+      <guid>/2022/russian-invasion-of-ukraine/</guid>
+      <description>Hello, the Free World!
+Not every software geek blog starts with a post about a war. A war which is bad enough to potentially become a world-ending nuclear world war. I am honored by this.
+Ukraine, my fatherland, is under an unprovoked and aggressive full-scale military invasion from Russia and its satellite Belarus. You should know this by now, dear reader. But Ukraine fights. Fights with passion. Fights in yet-unseen unity.</description>
     </item>
     
   </channel>
