@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="color-scheme" content="light dark">
+
+    
+
+    <meta name="author" content="Andriy Utkin">
+    <meta name="description" content="Hi dear reader!
+It&rsquo;s April 5, 2022, and it&rsquo;s day 41 of a full-scale military invasion of Ukraine. The Armed Forces of Ukraine have just released Kyiv from semi-encirclement, liberated all of the Kyiv region as well as entire north of the country. The previously occupied towns and villages are scenes of thousands of disgusting war crimes committed by the russian beasts.
+ Murdered on the spot civilians, some with tied hands, are lying on the streets in great numbers.">
+    <meta name="keywords" content="">
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="How to block Russia on your servers"/>
+<meta name="twitter:description" content="Hi dear reader!
+It&rsquo;s April 5, 2022, and it&rsquo;s day 41 of a full-scale military invasion of Ukraine. The Armed Forces of Ukraine have just released Kyiv from semi-encirclement, liberated all of the Kyiv region as well as entire north of the country. The previously occupied towns and villages are scenes of thousands of disgusting war crimes committed by the russian beasts.
+ Murdered on the spot civilians, some with tied hands, are lying on the streets in great numbers."/>
+
+    <meta property="og:title" content="How to block Russia on your servers" />
+<meta property="og:description" content="Hi dear reader!
+It&rsquo;s April 5, 2022, and it&rsquo;s day 41 of a full-scale military invasion of Ukraine. The Armed Forces of Ukraine have just released Kyiv from semi-encirclement, liberated all of the Kyiv region as well as entire north of the country. The previously occupied towns and villages are scenes of thousands of disgusting war crimes committed by the russian beasts.
+ Murdered on the spot civilians, some with tied hands, are lying on the streets in great numbers." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2022/block-ru-nftables/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-04-05T20:37:25+01:00" />
+<meta property="article:modified_time" content="2022-04-05T20:37:25+01:00" />
+
+
+
+    <title>
+  How to block Russia on your servers · Andriy Utkin
+</title>
+
+    
+      <link rel="canonical" href="/2022/block-ru-nftables/">
+    
+
+    <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
+
+    
+      
+      
+      <link rel="stylesheet" href="/css/coder.min.d9fddbffe6f27e69985dc5fe0471cdb0e57fbf4775714bc3d847accb08f4a1f6.css" integrity="sha256-2f3b/&#43;byfmmYXcX&#43;BHHNsOV/v0d1cUvD2Eesywj0ofY=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+    <meta name="generator" content="Hugo 0.96.0" />
+  </head>
+
+  
+  
+  <body class="preload-transitions colorscheme-light">
+    
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">
+      Andriy Utkin
+    </a>
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/merit/">Merit</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/posts/">Publications</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="/2022/block-ru-nftables/">
+              How to block Russia on your servers
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa fa-calendar" aria-hidden="true"></i>
+              <time datetime='2022-04-05T20:37:25&#43;01:00'>
+                April 5, 2022
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa fa-clock-o" aria-hidden="true"></i>
+              4-minute read
+            </span>
+          </div>
+          
+          
+          
+        </div>
+      </header>
+
+      <div>
+        
+        <p>Hi dear reader!</p>
+<p>It&rsquo;s April 5, 2022, and it&rsquo;s day 41 of a full-scale military invasion of Ukraine.
+The Armed Forces of Ukraine have just released Kyiv from semi-encirclement, liberated all of the Kyiv region as well as entire north of the country.
+The previously occupied towns and villages are scenes of thousands of disgusting war crimes committed by the russian beasts.</p>
+<ul>
+<li>Murdered on the spot civilians, some with tied hands, are lying on the streets in great numbers.</li>
+<li>Found dead after being tortured are the hostages taken days and weeks before.
+Especially often the tortured hostages are local councillors, journalists and activists.
+And their whole families, of course.</li>
+<li>Brutal rapes.</li>
+<li>Looting, with the loot filling their battle vehicles and later posted from Belarus to invaders&rsquo; homes.</li>
+<li>Mined civil property. <a href="https://t.me/kyivoperativ/94190">*</a></li>
+<li>Massively destroyed civil housing and infrastructure.</li>
+</ul>
+<p>The official position of russia?</p>
+<ul>
+<li>&ldquo;It&rsquo;s all lies!&rdquo; <a href="https://www.theguardian.com/world/live/2022/apr/05/russia-ukraine-war-latest-news-live-updates-zelenskiy-address-un-united-nations-borodyanka-atrocities-bucha?filterKeyEvents=false&amp;page=with:block-624c94788f0887d7b40d47fd#block-624c94788f0887d7b40d47fd">*</a></li>
+<li>&ldquo;We are denazifying Ukraine, so we have to commit a genocide, eradicate the national historical memory and BTW we can&rsquo;t let it be called Ukraine&rdquo; <a href="https://twitter.com/francska1/status/1510898134481788930">*</a> <a href="https://pluralist.com/kremlin-newspaper-and-a-putin-confidant-endorse-genocide-as-russias-final-solution-to-the-ukraine-problem-opinion/">*</a></li>
+</ul>
+<p>No wonder I like this statement <a href="https://twitter.com/KarolDarmoros/status/1511346958446825477">*</a>
+by Poland&rsquo;s Foreign Minister Zbigniew Rau - it just makes sense.</p>
+<blockquote>
+<p>Russia has completely lost all credibility.
+A country that commits war crimes <strong>should be isolated</strong> on the international area, punished an held accountable.
+We are in favor of severe sanctions against Russia.</p>
+</blockquote>
+<p>This intro is to make you <em>really</em> consider that it might make sense for you to follow this instruction!</p>
+<p>ICANN<a href="https://www.icann.org/en/system/files/correspondence/marby-to-fedorov-02mar22-en.pdf">*</a> and RIPE<a href="https://www.ripe.net/publications/news/announcements/ripe-ncc-response-to-request-from-ukrainian-government">*</a> refused to block Russia, even without consulting their communities, but maybe you and some of the millions of engineers running the Internet want to!</p>
+<h2 id="how">
+  How
+  <a class="heading-link" href="#how">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h2>
+<p>We will be using a chain of publicly available data and tools to accomplish this.</p>
+<ul>
+<li><a href="https://nftables.org/projects/nftables/index.html"><code>nftables</code></a> to execute the blocking policy on kernel level.</li>
+<li><a href="https://github.com/ipverse"><code>ipverse</code></a> provides the lists of registered IP blocks per country, <a href="https://github.com/ipverse/feedback/discussions/3">sourced in a reproducible way</a>.</li>
+<li><a href="https://github.com/rpthms/nft-geo-filter/"><code>nft-geo-filter</code></a> a single tiny, easily auditable script which pulls that data from <code>ipverse</code> repo and updates the <code>nftables</code> ruleset.</li>
+</ul>
+<p>So how do you do that?</p>
+<h3 id="prerequisite-checks">
+  Prerequisite checks
+  <a class="heading-link" href="#prerequisite-checks">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h3>
+<p>Run <code>iptables -L</code> to see if your system has a previous generation of network filtering software and configuration in place.
+If command is not found, it&rsquo;s fine.
+If the output doesn&rsquo;t have any rules listed, it should be safe to proceed.
+If there are some rules, you&rsquo;re on your own - it&rsquo;s on you to reconcile the new blocking policy and the other sources of the rules, and to make the configuration changes from each side go gracefully.</p>
+<p>Running <code>nft list ruleset</code> will show your current ruleset (likely empty), and indicate if you have nftables installed. If it&rsquo;s not, install <code>nftables</code>.</p>
+<p>If iptables is present on the system, switch it to the mode in which it works through nftables kernel interface.
+For example, in Ubuntu 20.04 this looks like this:</p>
+<pre tabindex="0"><code>root@ubuntu-2gb-hel1-1:~# ls -l /etc/alternatives/iptables
+lrwxrwxrwx 1 root root 25 Feb 23 08:55 /etc/alternatives/iptables -&gt; /usr/sbin/iptables-legacy
+root@ubuntu-2gb-hel1-1:~# update-alternatives
+update-alternatives: need --display, --query, --list, --get-selections, --config, --set, --set-selections, --install, --remove, --all, --remove-all or --auto
+
+Use &#39;update-alternatives --help&#39; for program usage information.
+root@ubuntu-2gb-hel1-1:~# update-alternatives --list iptables
+/usr/sbin/iptables-legacy
+/usr/sbin/iptables-nft
+root@ubuntu-2gb-hel1-1:~# update-alternatives --set iptables /usr/sbin/iptables-nft
+update-alternatives: using /usr/sbin/iptables-nft to provide /usr/sbin/iptables (iptables) in manual mode
+</code></pre><p>Rebooting the host after that will ensure all the rules (e.g. for Docker Engine) are loaded into the nftables ruleset.</p>
+<h3 id="set-up-the-blocking">
+  Set up the blocking
+  <a class="heading-link" href="#set-up-the-blocking">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h3>
+<ul>
+<li><code>wget https://github.com/rpthms/nft-geo-filter/raw/master/nft-geo-filter</code> to fetch the script</li>
+<li>Skim the script: a bit of an audit never hurts, and you want to learn the parameters available.</li>
+<li><code>chmod a+x nft-geo-filter</code></li>
+<li><code>./nft-geo-filter --table-family netdev --interface eth0 --log-drop RU</code></li>
+</ul>
+<p>Should work now!</p>
+<h3 id="testing">
+  Testing
+  <a class="heading-link" href="#testing">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h3>
+<p>Check the output of <code>nft list ruleset</code>.
+It should be really long - a long set of IP blocks, and a tiny bit of actual rules. Like this:</p>
+<pre tabindex="0"><code>table netdev geo-filter {
+        set filter-v4 {
+                type ipv4_addr
+                flags interval
+                auto-merge
+                elements = { 2.56.24.0/22, 2.56.88.0/22,
+                             2.56.112.0/22, 2.56.136.0/22,
+                             ...
+                             217.198.80.0/20, 217.198.160.0-217.198.176.255,
+                             217.198.179.0-217.198.180.255, 217.199.208.0-217.199.255.255 }
+        }
+
+        set filter-v6 {
+                type ipv6_addr
+                flags interval
+                auto-merge
+                elements = { 2001:640::/32,
+                             2001:678:13::-2001:678:18:ffff:ffff:ffff:ffff:ffff,
+                             ...
+                             2a12:f580::/29,
+                             2a12:f980::/29 }
+        }
+
+        chain filter-chain {
+                type filter hook ingress device &#34;eth0&#34; priority -190; policy accept;
+                ip saddr @filter-v4 drop
+                ip6 saddr @filter-v6 drop
+        }
+}
+</code></pre><p>Check the reachability of your server!</p>
+<p>There are a bunch of online services which can <a href="https://duckduckgo.com/?q=ping+from+multiple+locations">ping from multiple locations</a> and present to you the results.
+There are no services with substantial presence in russia and its neighbouring countries, though, so I can&rsquo;t really recommend any specific service.</p>
+<p>Note that some services, as do some public datasets, disagree about the country to which a particular IP address belongs.
+Someone could be using outdated data.</p>
+<p>You might enjoy the first article of this series, <a href="../block-ru-openwrt/">How to block Russia with OpenWRT</a>.</p>
+<p><a href="mailto:block@autkin.net">Feedback welcome!</a></p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+      </div>
+
+      <footer class="footer">
+  <section class="container">
+    ©
+    
+      2015 -
+    
+    2022
+     Andriy Utkin 
+    ·
+    Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+    
+  </section>
+</footer>
+
+    </main>
+
+    
+      
+      <script src="/js/coder.min.f453d26c79f010446cf0d9770197f77de32c07b7a5512d141a286247fe154a22.js" integrity="sha256-9FPSbHnwEERs8Nl3AZf3feMsB7elUS0UGihiR/4VSiI="></script>
+    
+
+    
+
+    
+
+    
+
+    <script async defer data-domain="autkin.net" src="https://plausible.autkin.net/js/plausible.js"></script>
+
+
+    
+
+    
+
+    
+
+    
+  </body>
+
+</html>
