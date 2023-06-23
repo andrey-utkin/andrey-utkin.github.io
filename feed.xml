@@ -14,7 +14,7 @@
       <guid>/2022/block-ru-nftables/</guid>
       <description>Hi dear reader!
 It&amp;rsquo;s April 5, 2022, and it&amp;rsquo;s day 41 of a full-scale military invasion of Ukraine. The Armed Forces of Ukraine have just released Kyiv from semi-encirclement, liberated all of the Kyiv region as well as entire north of the country. The previously occupied towns and villages are scenes of thousands of disgusting war crimes committed by the russian beasts.
-Murdered on the spot civilians, some with tied hands, are lying on the streets in great numbers.</description>
+ Murdered on the spot civilians, some with tied hands, are lying on the streets in great numbers.</description>
     </item>
     
     <item>
@@ -24,7 +24,7 @@ Murdered on the spot civilians, some with tied hands, are lying on the streets i
       
       <guid>/2022/block-ru-openwrt/</guid>
       <description>There are many potentially valid reasons you may want to be discriminate to countries on your personal computer or your network infrastructure.
-Distinct country-specific locality of your users or the resources you use. Distinct intensity of cyber attacks or threats. Legal restrictions (data protection laws, trade sanctions). Particularly relevant, novel motivation as of March 2022 is the boycott of Russia in response to the invasion of Ukraine.
+ Distinct country-specific locality of your users or the resources you use. Distinct intensity of cyber attacks or threats. Legal restrictions (data protection laws, trade sanctions).  Particularly relevant, novel motivation as of March 2022 is the boycott of Russia in response to the invasion of Ukraine.
 This is a purely technical article about how this can be achieved and what to expect as a result.</description>
     </item>
     
@@ -45,7 +45,7 @@ Ukraine, my fatherland, is under an unprovoked and aggressive full-scale militar
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>About me I am a professional software developer.
+      <description>About me    I am a professional software developer.
 Since the start of my career, I chose to work with systems based on Free and Open Source Software. I have never regretted this choice. The freedoms to use, learn, change and share the code always were important in helping me meet the ever changing needs of myself and others - friends, customers and employers. I am deeply thankful to those who made it possible.</description>
     </item>
     
@@ -55,12 +55,11 @@ Since the start of my career, I chose to work with systems based on Free and Ope
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/merit/</guid>
-      <description>Merit Talk is cheap. Show me the code.
-Linus Torvalds
+      <description>Merit     Talk is cheap. Show me the code.
+ Linus Torvalds
 I have contributed to many public FOSS projects and made some myself. I was Gentoo Linux developer from 2017 until 2022. I operate an XMPP server since 2015.
-Contributions to FOSS Gentoo Linux:
-Developer 2017 - 2022. Brought in and mentored another developer. Contributor since 2015. Linux kernel:
-44 commits in upstream so far Contributed a new V4L2 driver Participated in development of drivers for Pyra Handheld forward-porting audio engine driver mainlining efforts for LED controller driver, landed upstream mainlining efforts for nub joystick driver FFmpeg: 75 commits</description>
+Contributions to FOSS      Gentoo Linux:
+ Developer 2017 - 2022. Brought in and mentored another developer. Contributor since 2015.    Linux kernel:</description>
     </item>
     
   </channel>
