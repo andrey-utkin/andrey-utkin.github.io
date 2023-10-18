@@ -5,7 +5,30 @@
     <link>/posts/</link>
     <description>Recent content in Posts on Andriy Utkin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 05 Apr 2022 20:37:25 +0100</lastBuildDate><atom:link href="/posts/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Oct 2023 12:30:22 +0100</lastBuildDate><atom:link href="/posts/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Police of Minneapolis report - audiobook</title>
+      <link>/2023/police-of-minneapolis-audiobook/</link>
+      <pubDate>Fri, 06 Oct 2023 12:30:22 +0100</pubDate>
+      
+      <guid>/2023/police-of-minneapolis-audiobook/</guid>
+      <description>There&amp;rsquo;s this DoJ report about abuse of force by Minneapolis police, of George Floyd fame.
+Duration: 4:40:06
+ OPUS audio MP3 audio Source code PDF original link PDF cached  License: Public domain / CC0. (The original document is public domain.)
+I make &amp;ldquo;audiobooks&amp;rdquo; for myself to consume large texts non-visually, or to augment reading. This is such a case.
+Mostly the results have terrible quality which I got used to.</description>
+    </item>
+    
+    <item>
+      <title>Finger-counting</title>
+      <link>/2023/finger-counting/</link>
+      <pubDate>Thu, 28 Sep 2023 23:46:58 +0100</pubDate>
+      
+      <guid>/2023/finger-counting/</guid>
+      <description>Today during family dinner my kiddo started finger-counting. I shared what I knew about a less popular system which allows counting to 12 on one hand:
+ Finger-counting systems in use in many regions of Asia allow for counting to 12 by using a single hand. The thumb acts as a pointer touching the three finger bones of each finger in turn, starting with the outermost bone of the little finger.</description>
+    </item>
+    
     <item>
       <title>How to block Russia on your servers</title>
       <link>/2022/block-ru-nftables/</link>

@@ -1,0 +1,4 @@
+copy-paste the content from browser: https://www.schneier.com/blog/archives/2023/06/snowden-ten-years-later.html
+edit to lowercase the all-caps like "EDITED TO ADD" which mimic3 annoyingly spells out.
+vim: :%s/[A-Z ]\{6,\}/\L&/g
+cat schneier-snowden-10-years-later.txt | mimic3 --voice en_US/vctk_low --stdout | ffmpeg -f wav -i - schneier-snowden-10-years-later.opus -y

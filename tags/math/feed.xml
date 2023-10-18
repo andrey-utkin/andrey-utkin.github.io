@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>math on Andriy Utkin</title>
+    <link>/tags/math/</link>
+    <description>Recent content in math on Andriy Utkin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 28 Sep 2023 23:46:58 +0100</lastBuildDate><atom:link href="/tags/math/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finger-counting</title>
+      <link>/2023/finger-counting/</link>
+      <pubDate>Thu, 28 Sep 2023 23:46:58 +0100</pubDate>
+      
+      <guid>/2023/finger-counting/</guid>
+      <description>Today during family dinner my kiddo started finger-counting. I shared what I knew about a less popular system which allows counting to 12 on one hand:
+ Finger-counting systems in use in many regions of Asia allow for counting to 12 by using a single hand. The thumb acts as a pointer touching the three finger bones of each finger in turn, starting with the outermost bone of the little finger.</description>
+    </item>
+    
+  </channel>
+</rss>
