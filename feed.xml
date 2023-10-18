@@ -5,7 +5,18 @@
     <link>/</link>
     <description>Recent content on Andriy Utkin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 06 Oct 2023 12:30:22 +0100</lastBuildDate><atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Oct 2023 23:20:10 +0100</lastBuildDate><atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Messengers performance</title>
+      <link>/2023/messengers-perf/</link>
+      <pubDate>Wed, 18 Oct 2023 23:20:10 +0100</pubDate>
+      
+      <guid>/2023/messengers-perf/</guid>
+      <description>I have published my small analysis of Android messaging apps: power draw, bandwidth and RAM use.
+Explore the cool pictures serious data in the public Grafana dashboard
+The most solid conclusion is that Conversations (XMPP) is the most economic, but we need more data to claim anything seriously.</description>
+    </item>
+    
     <item>
       <title>Police of Minneapolis report - audiobook</title>
       <link>/2023/police-of-minneapolis-audiobook/</link>
