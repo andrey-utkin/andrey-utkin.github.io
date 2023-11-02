@@ -5,7 +5,16 @@
     <link>/posts/</link>
     <description>Recent content in Posts on Andriy Utkin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 30 Oct 2023 23:11:57 +0000</lastBuildDate><atom:link href="/posts/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Nov 2023 01:02:15 +0000</lastBuildDate><atom:link href="/posts/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Piskel app is amazing</title>
+      <link>/2023/piskelapp/</link>
+      <pubDate>Thu, 02 Nov 2023 01:02:15 +0000</pubDate>
+      
+      <guid>/2023/piskelapp/</guid>
+      <description>I encountered a really easy and satisfying pixel art editor Piskel. Used it, shown my little daughter, she instantly started creating her own art while really enjoying it. (Before, she used Tux Paint a lot.) I found Piskel while reading about Jugend Hackt, which is even more amazing.</description>
+    </item>
+    
     <item>
       <title>MathTime!</title>
       <link>/2023/mathtime/</link>
