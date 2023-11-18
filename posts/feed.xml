@@ -5,7 +5,16 @@
     <link>/posts/</link>
     <description>Recent content in Posts on Andriy Utkin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 18 Nov 2023 11:08:13 +0000</lastBuildDate><atom:link href="/posts/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Nov 2023 11:19:30 +0000</lastBuildDate><atom:link href="/posts/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tensorflow 2.x network cluster example</title>
+      <link>/2023/tensorflow-network-cluster/</link>
+      <pubDate>Sat, 18 Nov 2023 11:19:30 +0000</pubDate>
+      
+      <guid>/2023/tensorflow-network-cluster/</guid>
+      <description>It was a bit hard to find information about running model training on TensorFlow 2.x on multiple networked machines. But I found enough and made it work, although it worked slower than single-node. See the code here or at GitHub.</description>
+    </item>
+    
     <item>
       <title>Homework Machine</title>
       <link>/2023/homework-machine/</link>
