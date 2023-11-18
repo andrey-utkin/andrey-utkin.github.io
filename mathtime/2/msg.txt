@@ -1,0 +1,21 @@
+Hello!
+
+1.  Find your way from the entry to the GOAL without taking any left
+    turn.
+    [ducky] [Picture of maze]
+
+2.  Four adventurers (Alex, Brook, Chris and Dusty) need to cross a
+    river in a small canoe. The canoe can only carry 100kg. Alex weighs
+    90kg, Brook weighs 80kg, Chris weighs 60kg and Dusty weighs 40 kg,
+    and they have 20kg of supplies.
+    How do they get across?
+
+3.  There is a barn with a pointed roof. The northern side of its roof
+    is 10 degrees steeper than the southern side. The Northern wind is
+    blowing at the speed of 1 m/s. At the top of the roof, rooster lays
+    an egg. The sun is rising and the high tide was at the noon
+    yesterday.
+    Where will the egg go?
+
+Send back your solutions if you want them to be checked or to receive
+hints. Enjoy!

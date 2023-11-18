@@ -1,0 +1,41 @@
+Hello!
+
+Hope you enjoyed the puzzles.
+Here are the answers.
+
+1.  My boat has more than 1 circle. It also has 2 more triangles than
+    squares.
+    Which boat is mine?
+    [pictures of 5 boats with shapes: △□△○○, □□△△△○○○, □△□□△△△○, □□□△○○,
+    □□△△△△○○○ (TSTCC, SSTTTCCC, STSSTTTC, SSSTCC, SSTTTTCCC)]
+    Answer: the fifth boat.
+    Source: Math Kangaroo
+
+2.  On one island, all inhabitants are either knights, who always tell
+    the truth, or knaves, who always lie. Alice and Bob are residents of
+    the island of knights and knaves. Alice says: We are both knaves.
+    Who is what?
+
+    Answer: Alice is a knave and Bob is a knight. Alice’s statement
+    cannot be true, because a knave admitting to being a knave would be
+    the same as a liar telling the truth that “I am a liar”, which is
+    known as the liar paradox. Since Alice is a knave this means she
+    must have been lying about them both being knaves, and so Bob is a
+    knight.
+    Source, see more
+
+3.  You are at the party and you all are having a pizza. You are cutting
+    it so that everyone has one piece and nothing is left. Everybody
+    loves pizza and wants the biggest piece. But you have to let
+    everyone choose their piece first, and take the last piece.
+    How do you cut it to take the biggest possible piece to yourself in
+    this case?
+    Answer is general (doesn’t depend on the size of party or pizza
+    shape), but to make a concrete example, suppose there are 4 people
+    at the party and it’s a round pizza.
+
+    Answer: Cut it into equal pieces.
+    Source: public knowledge, see also
+
+See you next time!
+[ducky]
