@@ -131,7 +131,7 @@
             </span>
             <span class="reading-time">
               <i class="fa fa-clock-o" aria-hidden="true"></i>
-              6-minute read
+              5-minute read
             </span>
           </div>
           
@@ -158,8 +158,7 @@ A lot of trusty tools and mental models just had to be thrown away, with nothing
 Disk is a file, most of the same tools and ideas apply as for physical machines.
 Snapshotting is a first class feature.
 Networking modes are still a stumbling block, but at least the terminology is stable and adhered to by many vendors.</p>
-<p>So I was quite happy to learn <code>libvirt</code> and <code>guestfs</code> which lets you come close to Dockerfile concepts when programming your virtual machine building process:
-see <a href="https://github.com/decent-im/gebootstrap/blob/vm/vm/Makefile">https://github.com/decent-im/gebootstrap/blob/vm/vm/Makefile</a> .
+<p>So I was quite happy to learn <code>libvirt</code> and <code>guestfs</code> which lets you come close to Dockerfile concepts when programming your virtual machine building process.
 And the tooling, <code>libvirt</code> and <code>guestfs</code>, I expect to stay available and stable for many years to come.</p>
 <p>Still, there are some problems with generating VMs with guestfs.
 Simple things such as properly sizing the disk are a hit and miss (you have to know the disk layout; layout using LVM is even trickier?), introspection into filesystem requires arcane commands, and updating grub bootloader is a problem if guesfs is not compiled with &ldquo;grub&rdquo; module (which is the case on Fedora).
