@@ -5,182 +5,155 @@
     <link>/</link>
     <description>Recent content on Andriy Utkin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 31 Jul 2024 15:00:00 +0000</lastBuildDate><atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Oct 2024 13:42:03 +0000</lastBuildDate>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Makefile</title>
+      <link>/2024/python-makefile/</link>
+      <pubDate>Mon, 28 Oct 2024 13:42:03 +0000</pubDate>
+      <guid>/2024/python-makefile/</guid>
+      <description>Thanks to the article &amp;ldquo;Your Makefiles are wrong&amp;rdquo; it really dawned on me that Makefile can run any interpreter, not just sh or bash:&#xA;The key message here, of course, is to choose a specific shell. If you’d rather use ZSH, or Python or Node for that matter, set it to that.&#xA;Now, there are lots of articles and discussions purporting to discuss a &amp;ldquo;Python Makefile&amp;rdquo; (for example, 1, 2). But what they actually discuss is how to invoke Python interpreter in Makefile.</description>
+    </item>
+    <item>
+      <title>Offerings</title>
+      <link>/offerings/</link>
+      <pubDate>Thu, 24 Oct 2024 16:37:01 +0100</pubDate>
+      <guid>/offerings/</guid>
+      <description>Offerings I am hireable and employable for software development or maintenance. Contact me.&#xA;Software services Newsreader XMPP Engagements SIGSEGV investigator Project Maintenance Takeover Free services I published brief guides on blocking the terrorist state on your servers and routers.&#xA;I will happily provide personal support for you to block relevant IP and domain zones. No remote control, no excessive info disclosure, confidential, assurance of rollback. Email to ru404@autkin.net :)</description>
+    </item>
+    <item>
+      <title>Committed to losing</title>
+      <link>/2024/committed-to-losing/</link>
+      <pubDate>Sun, 22 Sep 2024 12:21:44 +0100</pubDate>
+      <guid>/2024/committed-to-losing/</guid>
+      <description>We&amp;rsquo;re the good guys. We are always ready to sacrifice ourselves for all the good stuff we love in the world.&#xA;But we never get to enjoy our life!&#xA;It&amp;rsquo;s all their fault. They&amp;rsquo;re the bad guys - authoritarian countries committing genocides and other atrocities, companies harming the society and planet with their sick unsustainable practices, and simply criminals.&#xA;They tell us to tie our own hands or they&amp;rsquo;ll kill our beloveds whom they hold hostages.</description>
+    </item>
+    <item>
+      <title>Vile Way Nursery</title>
+      <link>/2024/vile-way-nursery/</link>
+      <pubDate>Sun, 22 Sep 2024 12:14:45 +0100</pubDate>
+      <guid>/2024/vile-way-nursery/</guid>
+      <description>Take your child to the award-winning Vile Way Nursery, it&amp;rsquo;s the best you can do for them. And you want only the best for them, don&amp;rsquo;t you?&#xA;All educational materials used are our intellectual property. Sharing or studying without the prior written permission of CEO is strictly prohibited. This includes fairy tales, nursery rhymes, coloring sheets, games, toys and the layout and the likeness of the nursery estates. For the avoidance of doubt, at-home singing of the nursery rhymes your child learnt in the nursery is not permitted.</description>
+    </item>
+    <item>
+      <title>Published my invoicing system</title>
+      <link>/2024/invoicing/</link>
+      <pubDate>Fri, 13 Sep 2024 17:04:01 +0100</pubDate>
+      <guid>/2024/invoicing/</guid>
+      <description>Published source code of my invoicing system.&#xA;https://github.com/andrey-utkin/invoicing&#xA;Demo PDF looks like this:</description>
+    </item>
     <item>
       <title>Incus</title>
       <link>/2024/incus/</link>
       <pubDate>Wed, 31 Jul 2024 15:00:00 +0000</pubDate>
-      
       <guid>/2024/incus/</guid>
-      <description>When Docker containerization was the new hotness, many old hands sysadmins were repulsed by it. Not that the benefits were lost on them, but many aspects of system troubleshooting and maintenance were quite wacky. A lot of trusty tools and mental models just had to be thrown away, with nothing, or cobbled together prototypes, to replace them.
-&amp;ldquo;How do I inspect the processes running inside&amp;rdquo;?
-&amp;ldquo;Which networks is the container connected to&amp;rdquo;?</description>
+      <description>When Docker containerization was the new hotness, many old hands sysadmins were repulsed by it. Not that the benefits were lost on them, but many aspects of system troubleshooting and maintenance were quite wacky. A lot of trusty tools and mental models just had to be thrown away, with nothing, or cobbled together prototypes, to replace them.&#xA;&amp;ldquo;How do I inspect the processes running inside&amp;rdquo;?&#xA;&amp;ldquo;Which networks is the container connected to&amp;rdquo;?</description>
     </item>
-    
     <item>
       <title>Olga Pulatova released &#39;Darkness&#39;</title>
       <link>/2024/pulatova-darkness/</link>
       <pubDate>Wed, 31 Jul 2024 13:22:11 +0100</pubDate>
-      
       <guid>/2024/pulatova-darkness/</guid>
-      <description>Today my favourite musician Olga Pulatova released her new music album &amp;ldquo;Darkness&amp;rdquo;.
-Listen, pay, download here: https://pulatova.bandcamp.com/album/--5 Темрява by Pulatova For me she is a charismatic and witty goth pianist &amp;amp; singer. She is from Odesa and became famous across Ukraine and beyond, in Fleur band, where many of their best songs were her. Her most popular older hits are perhaps Silkworm (Шовкопряд) and Formalin (Формалін).
-Enjoy!
-Шовкопряд (Silkworm)
-Формалін (Formalin)</description>
+      <description>Today my favourite musician Olga Pulatova released her new music album &amp;ldquo;Darkness&amp;rdquo;.&#xA;Listen, pay, download here: https://pulatova.bandcamp.com/album/--5 Темрява by Pulatova For me she is a charismatic and witty goth pianist &amp;amp; singer. She is from Odesa and became famous across Ukraine and beyond, in Fleur band, where many of their best songs were her. Her most popular older hits are perhaps Silkworm (Шовкопряд) and Formalin (Формалін).&#xA;Enjoy!&#xA;Шовкопряд (Silkworm)&#xA;Формалін (Formalin)</description>
     </item>
-    
     <item>
       <title>LED badge plays Doom</title>
       <link>/2024/led-badge-doom/</link>
       <pubDate>Fri, 26 Apr 2024 13:10:15 +0100</pubDate>
-      
       <guid>/2024/led-badge-doom/</guid>
-      <description>- Wait, LED badge is able to play Doom? - Always has been. Code is here
-Bonus: Tetris!</description>
+      <description>- Wait, LED badge is able to play Doom? - Always has been. Code is here&#xA;Bonus: Tetris!</description>
     </item>
-    
     <item>
       <title>Customer Optics Manager</title>
       <link>/2024/customer-optics-manager/</link>
       <pubDate>Mon, 04 Mar 2024 11:22:21 +0000</pubDate>
-      
       <guid>/2024/customer-optics-manager/</guid>
-      <description>Job title: Customer Optics Manager
-Are you looking to make a galaxy-scale impact to the shareholder value?
-Do you like to help real people (to keep living with the pain we cause them)?
-We are looking for an A-Team player to add to our new Customer Optics division! (The old one has just been laid off.)
-At AInitech, we are a family - we will encourage you to grow dependent on us for all your needs, but in return, you have to obey and know your place even if you disagree.</description>
+      <description>Job title: Customer Optics Manager&#xA;Are you looking to make a galaxy-scale impact to the shareholder value?&#xA;Do you like to help real people (to keep living with the pain we cause them)?&#xA;We are looking for an A-Team player to add to our new Customer Optics division! (The old one has just been laid off.)&#xA;At AInitech, we are a family - we will encourage you to grow dependent on us for all your needs, but in return, you have to obey and know your place even if you disagree.</description>
     </item>
-    
     <item>
       <title>Tensorflow 2.x network cluster example</title>
       <link>/2023/tensorflow-network-cluster/</link>
       <pubDate>Sat, 18 Nov 2023 11:19:30 +0000</pubDate>
-      
       <guid>/2023/tensorflow-network-cluster/</guid>
       <description>It was a bit hard to find information about running model training on TensorFlow 2.x on multiple networked machines. But I found enough and made it work, although it worked slower than single-node. See the code here or at GitHub.</description>
     </item>
-    
     <item>
       <title>Homework Machine</title>
       <link>/2023/homework-machine/</link>
       <pubDate>Sat, 18 Nov 2023 11:08:13 +0000</pubDate>
-      
       <guid>/2023/homework-machine/</guid>
       <description>&amp;ldquo;Homework Machine&amp;rdquo;, this tiny poem for children by Shel Silverstein paints a great picture of the ongoing AI rush. Via https://youtu.be/JhCl-GeT4jw?si=uLzOkMPFttndLgle&amp;amp;t=990 .</description>
     </item>
-    
     <item>
       <title>Piskel app is amazing</title>
       <link>/2023/piskelapp/</link>
       <pubDate>Thu, 02 Nov 2023 01:02:15 +0000</pubDate>
-      
       <guid>/2023/piskelapp/</guid>
       <description>I encountered a really easy and satisfying pixel art editor Piskel. Used it, shown my little daughter, she instantly started creating her own art while really enjoying it. (Before, she used Tux Paint a lot.) I found Piskel while reading about Jugend Hackt, which is even more amazing.</description>
     </item>
-    
     <item>
       <title>MathTime!</title>
       <link>/2023/mathtime/</link>
       <pubDate>Mon, 30 Oct 2023 23:11:57 +0000</pubDate>
-      
       <guid>/2023/mathtime/</guid>
-      <description>For the last few weeks my family is up to our ears in maths exercises and brain teasers as my daughter has developed a big interest.
-I am setting up a &amp;ldquo;newsletter&amp;rdquo; for puzzles. Once in a few days I would send a few exercises. Readers can send their solutions if they want, and I will mark them. This would cost a few pounds per month.
-To sign up, email to mathtime@autkin.</description>
+      <description>For the last few weeks my family is up to our ears in maths exercises and brain teasers as my daughter has developed a big interest.&#xA;I am setting up a &amp;ldquo;newsletter&amp;rdquo; for puzzles. Once in a few days I would send a few exercises. Readers can send their solutions if they want, and I will mark them. This would cost a few pounds per month.&#xA;To sign up, email to mathtime@autkin.</description>
     </item>
-    
     <item>
       <title>Messengers performance</title>
       <link>/2023/messengers-perf/</link>
       <pubDate>Wed, 18 Oct 2023 23:20:10 +0100</pubDate>
-      
       <guid>/2023/messengers-perf/</guid>
-      <description>I have published my small analysis of Android messaging apps: power draw, bandwidth and RAM use.
-Explore the cool pictures serious data in the public Grafana dashboard
-The most solid conclusion is that Conversations (XMPP) is the most economic, but we need more data to claim anything seriously.</description>
+      <description>I have published my small analysis of Android messaging apps: power draw, bandwidth and RAM use.&#xA;Explore the cool pictures serious data in the public Grafana dashboard&#xA;The most solid conclusion is that Conversations (XMPP) is the most economic, but we need more data to claim anything seriously.</description>
     </item>
-    
     <item>
       <title>Police of Minneapolis report - audiobook</title>
       <link>/2023/police-of-minneapolis-audiobook/</link>
       <pubDate>Fri, 06 Oct 2023 12:30:22 +0100</pubDate>
-      
       <guid>/2023/police-of-minneapolis-audiobook/</guid>
-      <description>There&amp;rsquo;s this DoJ report about abuse of force by Minneapolis police, of George Floyd fame.
-Duration: 4:40:06
-OPUS audio MP3 audio Source code PDF original link PDF cached License: Public domain / CC0. (The original document is public domain.)
-I make &amp;ldquo;audiobooks&amp;rdquo; for myself to consume large texts non-visually, or to augment reading. This is such a case.
-Mostly the results have terrible quality which I got used to. I use open source text to speech systems and pre-process the text only very lightly.</description>
+      <description>There&amp;rsquo;s this DoJ report about abuse of force by Minneapolis police, of George Floyd fame.&#xA;Duration: 4:40:06&#xA;OPUS audio MP3 audio Source code PDF original link PDF cached License: Public domain / CC0. (The original document is public domain.)&#xA;I make &amp;ldquo;audiobooks&amp;rdquo; for myself to consume large texts non-visually, or to augment reading. This is such a case.&#xA;Mostly the results have terrible quality which I got used to. I use open source text to speech systems and pre-process the text only very lightly.</description>
     </item>
-    
     <item>
       <title>Finger-counting</title>
       <link>/2023/finger-counting/</link>
       <pubDate>Thu, 28 Sep 2023 23:46:58 +0100</pubDate>
-      
       <guid>/2023/finger-counting/</guid>
-      <description>Today during family dinner my kiddo started finger-counting. I shared what I knew about a less popular system which allows counting to 12 on one hand:
-Finger-counting systems in use in many regions of Asia allow for counting to 12 by using a single hand. The thumb acts as a pointer touching the three finger bones of each finger in turn, starting with the outermost bone of the little finger. One hand is used to count numbers up to 12.</description>
+      <description>Today during family dinner my kiddo started finger-counting. I shared what I knew about a less popular system which allows counting to 12 on one hand:&#xA;Finger-counting systems in use in many regions of Asia allow for counting to 12 by using a single hand. The thumb acts as a pointer touching the three finger bones of each finger in turn, starting with the outermost bone of the little finger. One hand is used to count numbers up to 12.</description>
     </item>
-    
     <item>
       <title>How to block Russia on your servers</title>
       <link>/2022/block-ru-nftables/</link>
       <pubDate>Tue, 05 Apr 2022 20:37:25 +0100</pubDate>
-      
       <guid>/2022/block-ru-nftables/</guid>
-      <description>Hi dear reader!
-It&amp;rsquo;s April 5, 2022, and it&amp;rsquo;s day 41 of a full-scale military invasion of Ukraine. The Armed Forces of Ukraine have just released Kyiv from semi-encirclement, liberated all of the Kyiv region as well as entire north of the country. The previously occupied towns and villages are scenes of thousands of disgusting war crimes committed by the russian beasts.
-Murdered on the spot civilians, some with tied hands, are lying on the streets in great numbers.</description>
+      <description>Hi dear reader!&#xA;It&amp;rsquo;s April 5, 2022, and it&amp;rsquo;s day 41 of a full-scale military invasion of Ukraine. The Armed Forces of Ukraine have just released Kyiv from semi-encirclement, liberated all of the Kyiv region as well as entire north of the country. The previously occupied towns and villages are scenes of thousands of disgusting war crimes committed by the russian beasts.&#xA;Murdered on the spot civilians, some with tied hands, are lying on the streets in great numbers.</description>
     </item>
-    
     <item>
       <title>How to block Russia with OpenWRT</title>
       <link>/2022/block-ru-openwrt/</link>
       <pubDate>Sun, 06 Mar 2022 13:17:39 +0000</pubDate>
-      
       <guid>/2022/block-ru-openwrt/</guid>
-      <description>There are many potentially valid reasons you may want to be discriminate to countries on your personal computer or your network infrastructure.
-Distinct country-specific locality of your users or the resources you use. Distinct intensity of cyber attacks or threats. Legal restrictions (data protection laws, trade sanctions). Particularly relevant, novel motivation as of March 2022 is the boycott of Russia in response to the invasion of Ukraine.
-This is a purely technical article about how this can be achieved and what to expect as a result.</description>
+      <description>There are many potentially valid reasons you may want to be discriminate to countries on your personal computer or your network infrastructure.&#xA;Distinct country-specific locality of your users or the resources you use. Distinct intensity of cyber attacks or threats. Legal restrictions (data protection laws, trade sanctions). Particularly relevant, novel motivation as of March 2022 is the boycott of Russia in response to the invasion of Ukraine.&#xA;This is a purely technical article about how this can be achieved and what to expect as a result.</description>
     </item>
-    
     <item>
       <title>Russian Invasion of Ukraine</title>
       <link>/2022/russian-invasion-of-ukraine/</link>
       <pubDate>Sat, 05 Mar 2022 16:04:49 +0000</pubDate>
-      
       <guid>/2022/russian-invasion-of-ukraine/</guid>
-      <description>Hello, the Free World!
-Not every software geek blog starts with a post about a war. A war which is bad enough to potentially become a world-ending nuclear world war. I am honored by this.
-Ukraine, my fatherland, is under an unprovoked and aggressive full-scale military invasion from Russia and its satellite Belarus. You should know this by now, dear reader. But Ukraine fights. Fights with passion. Fights in yet-unseen unity.</description>
+      <description>Hello, the Free World!&#xA;Not every software geek blog starts with a post about a war. A war which is bad enough to potentially become a world-ending nuclear world war. I am honored by this.&#xA;Ukraine, my fatherland, is under an unprovoked and aggressive full-scale military invasion from Russia and its satellite Belarus. You should know this by now, dear reader. But Ukraine fights. Fights with passion. Fights in yet-unseen unity.</description>
     </item>
-    
     <item>
       <title></title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/about/</guid>
-      <description>About me I am a professional software developer.
-Since the start of my career, I chose to work with systems based on Free and Open Source Software. I have never regretted this choice. The freedoms to use, learn, change and share the code always were important in helping me meet the ever changing needs of myself and others - friends, customers and employers. I am deeply thankful to those who made it possible.</description>
+      <description>About me I am a professional software developer.&#xA;Since the start of my career, I chose to work with systems based on Free and Open Source Software. I have never regretted this choice. The freedoms to use, learn, change and share the code always were important in helping me meet the ever changing needs of myself and others - friends, customers and employers. I am deeply thankful to those who made it possible.</description>
     </item>
-    
     <item>
       <title></title>
       <link>/merit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/merit/</guid>
-      <description>Merit Talk is cheap. Show me the code.
-Linus Torvalds
-I have contributed to many public FOSS projects and made some myself. I was Gentoo Linux developer from 2017 until 2022. I operate an XMPP server since 2015.
-Contributions to FOSS Gentoo Linux:
-Developer 2017 - 2022. Brought in and mentored another developer. Contributor since 2015. Linux kernel:
-44 commits in upstream so far Contributed a new V4L2 driver Participated in development of drivers for Pyra Handheld forward-porting audio engine driver mainlining efforts for LED controller driver, landed upstream mainlining efforts for nub joystick driver FFmpeg: 75 commits</description>
+      <description>Merit Talk is cheap. Show me the code.&#xA;Linus Torvalds&#xA;I have contributed to many public FOSS projects and made some myself. I was Gentoo Linux developer from 2017 until 2022. I operate an XMPP server since 2015.&#xA;Contributions to FOSS Gentoo Linux:&#xA;Developer 2017 - 2022. Brought in and mentored another developer. Contributor since 2015. Linux kernel:&#xA;44 commits in upstream so far Contributed a new V4L2 driver Participated in development of drivers for Pyra Handheld forward-porting audio engine driver mainlining efforts for LED controller driver, landed upstream mainlining efforts for nub joystick driver FFmpeg: 75 commits</description>
     </item>
-    
   </channel>
 </rss>

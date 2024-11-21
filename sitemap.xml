@@ -3,12 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2024-07-31T15:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/2024/incus/</loc>
-    <lastmod>2024-07-31T15:00:00+00:00</lastmod>
+    <lastmod>2024-10-28T13:42:03+00:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
+    <lastmod>2024-10-28T13:42:03+00:00</lastmod>
+  </url><url>
+    <loc>/2024/python-makefile/</loc>
+    <lastmod>2024-10-28T13:42:03+00:00</lastmod>
+  </url><url>
+    <loc>/offerings/</loc>
+    <lastmod>2024-10-24T16:37:01+01:00</lastmod>
+  </url><url>
+    <loc>/2024/committed-to-losing/</loc>
+    <lastmod>2024-09-22T12:21:44+01:00</lastmod>
+  </url><url>
+    <loc>/tags/humor/</loc>
+    <lastmod>2024-09-22T12:21:44+01:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-09-22T12:21:44+01:00</lastmod>
+  </url><url>
+    <loc>/2024/vile-way-nursery/</loc>
+    <lastmod>2024-09-22T12:14:45+01:00</lastmod>
+  </url><url>
+    <loc>/2024/invoicing/</loc>
+    <lastmod>2024-09-13T17:04:01+01:00</lastmod>
+  </url><url>
+    <loc>/2024/incus/</loc>
     <lastmod>2024-07-31T15:00:00+00:00</lastmod>
   </url><url>
     <loc>/2024/pulatova-darkness/</loc>
@@ -27,9 +48,6 @@
     <lastmod>2023-11-18T11:08:13+00:00</lastmod>
   </url><url>
     <loc>/tags/kids/</loc>
-    <lastmod>2023-11-18T11:08:13+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2023-11-18T11:08:13+00:00</lastmod>
   </url><url>
     <loc>/2023/piskelapp/</loc>
@@ -63,10 +81,8 @@
     <lastmod>2022-03-05T16:04:49+00:00</lastmod>
   </url><url>
     <loc>/about/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>/merit/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>/categories/</loc>
   </url>
