@@ -6,8 +6,29 @@
     <description>Recent content in Posts on Andriy Utkin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Oct 2024 13:42:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 13:59:36 +0000</lastBuildDate>
     <atom:link href="/posts/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lessons from the age of coal - audiobook</title>
+      <link>/2024/lessons-from-the-age-of-coal/</link>
+      <pubDate>Tue, 03 Dec 2024 13:59:36 +0000</pubDate>
+      <guid>/2024/lessons-from-the-age-of-coal/</guid>
+      <description>Referenced by Foundations. Why Britain has stagnated.&#xA;Duration: 29:22&#xA;OPUS audio Code: Makefile, piper-make-audiobook by Andriy Utkin, Public domain / CC0 Original © Anton Howes. All rights reserved. Cached © Anton Howes. All rights reserved. </description>
+    </item>
+    <item>
+      <title>Foundations. Why Britain has stagnated - audiobook</title>
+      <link>/2024/uk-foundations/</link>
+      <pubDate>Tue, 03 Dec 2024 13:33:23 +0000</pubDate>
+      <guid>/2024/uk-foundations/</guid>
+      <description>I highly recommend you read the original webpage as it has a lot of excellent infographics.&#xA;It mentions Lessons from the age of coal as one of its sources.&#xA;Duration: 1:48:25&#xA;OPUS audio (without outro) Code: Makefile, piper-make-audiobook by Andriy Utkin, Public domain / CC0 Original, outro © Ben Southwood, Samuel Hughes, Sam Bowman. All rights reserved. Cached, outro © Ben Southwood, Samuel Hughes, Sam Bowman. All rights reserved. </description>
+    </item>
+    <item>
+      <title>Positioning Free Open Source Software, by Emily Omier - audiobook</title>
+      <link>/2024/positioning-foss/</link>
+      <pubDate>Tue, 03 Dec 2024 13:08:49 +0000</pubDate>
+      <guid>/2024/positioning-foss/</guid>
+      <description>&#xA;Duration: 1:15:47&#xA;OPUS audio Code: Makefile, piper-make-audiobook by Andriy Utkin, Public domain / CC0 PDF original link © 2024 Emily Omier Consulting. All rights reserved. PDF cached © 2024 Emily Omier Consulting. All rights reserved. </description>
+    </item>
     <item>
       <title>Python Makefile</title>
       <link>/2024/python-makefile/</link>

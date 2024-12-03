@@ -3,10 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2024-10-28T13:42:03+00:00</lastmod>
+    <lastmod>2024-12-03T13:59:36+00:00</lastmod>
+  </url><url>
+    <loc>/tags/audiobook/</loc>
+    <lastmod>2024-12-03T13:59:36+00:00</lastmod>
+  </url><url>
+    <loc>/2024/lessons-from-the-age-of-coal/</loc>
+    <lastmod>2024-12-03T13:59:36+00:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
-    <lastmod>2024-10-28T13:42:03+00:00</lastmod>
+    <lastmod>2024-12-03T13:59:36+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-12-03T13:59:36+00:00</lastmod>
+  </url><url>
+    <loc>/2024/uk-foundations/</loc>
+    <lastmod>2024-12-03T13:33:23+00:00</lastmod>
+  </url><url>
+    <loc>/2024/positioning-foss/</loc>
+    <lastmod>2024-12-03T13:08:49+00:00</lastmod>
   </url><url>
     <loc>/2024/python-makefile/</loc>
     <lastmod>2024-10-28T13:42:03+00:00</lastmod>
@@ -18,9 +33,6 @@
     <lastmod>2024-09-22T12:21:44+01:00</lastmod>
   </url><url>
     <loc>/tags/humor/</loc>
-    <lastmod>2024-09-22T12:21:44+01:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2024-09-22T12:21:44+01:00</lastmod>
   </url><url>
     <loc>/2024/vile-way-nursery/</loc>
@@ -61,9 +73,6 @@
   </url><url>
     <loc>/2023/messengers-perf/</loc>
     <lastmod>2023-10-18T23:20:10+01:00</lastmod>
-  </url><url>
-    <loc>/tags/audioook/</loc>
-    <lastmod>2023-10-06T12:30:22+01:00</lastmod>
   </url><url>
     <loc>/2023/police-of-minneapolis-audiobook/</loc>
     <lastmod>2023-10-06T12:30:22+01:00</lastmod>
